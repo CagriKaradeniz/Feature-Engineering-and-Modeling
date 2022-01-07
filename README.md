@@ -1,6 +1,8 @@
 # Feature-Engineering-and-Modeling
 Feature Engineering and Modeling of Diabet and Telco Customer Churn datasets
 
+![This is an image](https://github.com/CagriKaradeniz/Feature-Engineering-and-Modeling/blob/main/feature_engineering.png?raw=true)
+
 # Business Problem
 For Diabet Dataset:
 
